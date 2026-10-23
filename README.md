@@ -4,6 +4,8 @@ Nonogramas autorais: descubra desenhos usando as pistas de cada linha e coluna.
 
 **[Jogar agora](https://gustapaz.github.io/quadra/)**
 
+![Interface do Quadra](docs/quadra.jpg)
+
 ## Experiência
 
 Oito desafios de 5×5, 7×7 e 9×9, seleção diária, tutorial, marcações, dicas, verificação, desfazer/refazer, pausa, conquistas e melhor tempo. Progresso salvo somente neste navegador. Não exige conta ou conexão com serviços de aplicação.
