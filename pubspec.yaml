@@ -1,0 +1,25 @@
+name: quadra
+description: Jogo de nonogramas com desafios autorais e progresso local.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ^3.13.0
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.5.6
+  cupertino_icons: ^1.0.9
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/roboto-regular.ttf
+    - family: RobotoCondensed
+      fonts:
+        - asset: assets/fonts/robotocondensed-bold.ttf
+          weight: 700
